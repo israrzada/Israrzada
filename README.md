@@ -1,6 +1,6 @@
 # 👩‍💻 Israr Zada- Aspiring Software Engineer
 
-Welcome to my GitHub! I am **Asawira Khan**, a passionate **Computer Science (BS CS) student** with a keen interest in software development, web technologies, and emerging AI tools. I am constantly learning and building projects to enhance my skills and prepare for a career as a software engineer.
+Welcome to my GitHub! I am **israr zada**, a passionate **Computer Science (BS CS) student** with a keen interest in software development, web technologies, and emerging AI tools. I am constantly learning and building projects to enhance my skills and prepare for a career as a software engineer.
 
 ---
 
