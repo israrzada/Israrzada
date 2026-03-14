@@ -58,7 +58,7 @@ Some of my notable projects:
 ## 📫 Contact Me
 - **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)  
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/)  
-- **GitHub:** [https://github.com/Asawira-khan](https://github.com/Asawira-khan)  
+- **GitHub:** [https://github.com/Asawira-khan](https://github.com/israrzada/Israrzada/edit/main/README.md)  
 
 ---
 
